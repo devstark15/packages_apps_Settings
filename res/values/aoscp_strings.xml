@@ -202,4 +202,9 @@
     <!-- Auto Face Unlock -->
     <string name="face_auto_unlock_title">Automatically unlock device</string>
     <string name="face_auto_unlock_summary">When face is recognized</string>
+
+    <!-- Pocket judge -->
+    <string name="pocket_judge_title">Pocket detection</string>
+    <string name="pocket_judge_summary">Block screen and button inputs when device is in pocket</string>
+ 
 </resources>
